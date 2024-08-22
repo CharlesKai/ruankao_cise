@@ -1,0 +1,39 @@
+.gradle
+/build/
+classes/
+!gradle/wrapper/gradle-wrapper.jar
+**/target
+
+logs
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+**/.DS_Store
+### IntelliJ IDEA ###
+.idea
+allure-results
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Gradle ###
+gradle.properties
+
+**/log.log
+**/**.log**
+**/output
+
+.history
+**/dependency-reduced-pom.xml
